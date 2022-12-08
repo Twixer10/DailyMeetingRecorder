@@ -1,4 +1,4 @@
-<p align="center"><img src="logoDiiage.png" height="250" alt="LeaderOS's logo" /></p>
+<p align="center"><img src="logoDiiage.png" height="150" alt="LeaderOS's logo" /></p>
 
 <h1 align="center">Daily Meeting Recorder</h1>
 
